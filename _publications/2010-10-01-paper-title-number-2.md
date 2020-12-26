@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/P3
 excerpt: 
 date: 2019-12-20
-venue: 'arxiv(under review)'
+venue: 'CoRR abs/1912.06765'
 
 ---
 

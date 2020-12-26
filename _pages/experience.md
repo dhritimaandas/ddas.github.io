@@ -13,7 +13,7 @@ redirect_from:
 
 ## Research Intern: [Medical Computing Lab(MEC Lab), TU Darmstadt](https://www.informatik.tu-darmstadt.de/gris/forschung_1/medical_computing/index.de.jsp)
 
-#Project: Interpretable Online EMT Compensation using CycleGAN 
+Project: Interpretable Online EMT Compensation using CycleGAN 
 
 *Supervisors: [Dr. Anirban Mukhopadhyay](https://sites.google.com/site/geometricanirban/)*
 
@@ -26,7 +26,7 @@ Reformulated the problem of Error Compensation in Electromagnetic Tracking(EMT) 
 ## Research Intern: [Image Analysis and Computer Vision(IACV) Lab, IISc Bengaluru](http://www.ee.iisc.ac.in/people/faculty/soma.biswas/index_IACV.html)
 
 
-#Project: Data Imbalance in Sketch Based Image Retrieval Systems 
+Project: Data Imbalance in Sketch Based Image Retrieval Systems 
 
 *Supervisors: [Dr. Soma Biswas](http://www.ee.iisc.ac.in/people/faculty/soma.biswas/index.html)*
 
@@ -38,9 +38,18 @@ study its effect in Sketch-Based Image Retrieval Systems.
 ## Research Intern: CV Lab, ISI Kolkata
 
 
-#Project: Unsupervised Image to Image Translation 
+Project: Unsupervised Image to Image Translation 
 
 *Supervisors: [Dr. Ujjwal Bhattacharya](https://www.isical.ac.in/~ujjwal/)*
 
 Worked on the problem of inter dataset Domain Adaptation in the context of foggy and
 non-foggy images. Experimented using the architecture of CycleGAN to extract disentangling features from foggy images to learn the distribution shift between the domains.
+
+## Undergraduate Reasearcher: PR Lab, IIT BHU
+
+
+Project: Gait Recognition in Occluded Scenarios
+
+*Supervisors: [Dr. Pratik Chattopadhyay](https://sites.google.com/site/pratikchattopadhyay/research)*
+
+Proposed a two stage framework for gait recognition in presence of occlusion consisting of occlusion detection network and a novel occlusion reconstruction network for the same. We customized the loss function as a multiobjective loss function in out model incorporating the dice coefficient between the reconstructed and ground truth occluded image in it.
