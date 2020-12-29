@@ -15,8 +15,6 @@ Thanks for visiting. I am Dhritimaan Das, pursuing B.Tech in Electrical Engineer
 
 ## **LATEST**
 
-**Dec 2020:** Recieved a amazing job offer from Oracle(ST).
-
 **Sept 2020:** Completed my internship at TU Darmstadt, Germany.
 
 **May 2020:** Starting my internship at TU Darmstadt, Germany remotely :).
