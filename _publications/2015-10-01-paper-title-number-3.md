@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/P2
 excerpt: 
 date: 2021-12-08
-venue: 'IPCAI(conditionally accepted, under revision)'
+venue: 'International Journal of Computer Assisted Radiology and Surgery, (Special Issue - IPCAI)'
 
 ---
 
-[in prep](https://www.google.co.in/)
+[pdf](https://link.springer.com/article/10.1007/s11548-021-02324-1)

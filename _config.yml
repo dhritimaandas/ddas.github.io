@@ -86,7 +86,7 @@ author:
   location         : "Varanasi, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://google.com"
+  googlescholar    : #"http://google.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
