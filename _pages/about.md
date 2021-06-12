@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-Hi, This is Dhritimaan Das, an Algorithm R&D Engineer at KLA Corporation. Before joining KLA, I was at Indian Institute of Technology(IIT-BHU), Varanasi where I pursued B.Tech in Electrical Engineering. During the four years of my Bachelor's studies, I luckily got a chance to explore the field of Machine Learning and Deep Learning and am lucky to have worked on some amazing projects in the domain. I like to mainly work on Computer Vision and Deep Learning based projects but I don't restrict myself to these only. I also love socializing and collaborating with people to learn new things or sometimes even the vice vice :) so feel free to ping me.
+Hi, This is Dhritimaan Das, an Algorithm R&D Engineer at KLA Corporation. Before joining KLA, I was at Indian Institute of Technology(IIT-BHU), Varanasi where I pursued B.Tech in Electrical Engineering. During the four years of my Bachelor's studies, I luckily got a chance to explore the field of Machine Learning and Deep Learning and am lucky to have worked on some amazing projects in the domain. My undegrduate performance(a small success :) ) is all due to my family, support and guidance from my supervisors Pratik Sir and Anirban Sir and obviously friends:) who make life at college, what we call as "college life". I like to work on Computer Vision and Deep Learning based projects but I don't restrict myself to these only. I also love socializing and collaborating with people to learn new things or sometimes even vice vice :) so feel free to ping me.
 
 Apart from the curricular activities, I also love to play hawaiin guitar, listen to music and in sports I do have a mini-passion for badminton, cricket and swimming(yes all three equally).
 
 
-## **LATEST**
+## **Updates**
 
 **June 2021:** Started working as Algorithm R&D Engineer @ KLA-Corporation.
 
