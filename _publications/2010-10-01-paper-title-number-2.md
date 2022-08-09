@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/P3
 excerpt: 
 date: 2022-07-24
-venue: 'European Conference of Computer Vision'
+venue: 'European Conference on Computer Vision'
 
 ---
 
