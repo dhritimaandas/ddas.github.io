@@ -1,11 +1,10 @@
 ---
-title: "RGait-NET: An Effective Network for Recovering Missing Information from Occluded Gait
-Cycles"
+title: "Gait Recognition from Occluded Sequences in Surveillance Sites"
 collection: publications
 permalink: /publication/P3
 excerpt: 
-date: 2019-12-20
-venue: 'Arxiv(under review)'
+date: 2022-07-24
+venue: 'European Conference of Computer Vision'
 
 ---
 
